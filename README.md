@@ -1,3 +1,2 @@
 # uts
-Nama : Ayu Lestari
-Nim  : SI17200009
+Nama : Ayu Lestari (SI17200009)
